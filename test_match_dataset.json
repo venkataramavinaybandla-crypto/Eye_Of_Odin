@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "is_match": true,
+    "item_a": {
+      "category": "bag",
+      "color": "Black",
+      "location_zone": "Library",
+      "description": "Black Herschel backpack left near 2nd-floor quiet study section with laptop compartment.",
+      "image_style": "black_backpack_1"
+    },
+    "item_b": {
+      "category": "bag",
+      "color": "Black",
+      "location_zone": "Library",
+      "description": "Black canvas backpack found under table 14 in Library reading room.",
+      "image_style": "black_backpack_2"
+    }
+  },
+  {
+    "id": 2,
+    "is_match": true,
+    "item_a": {
+      "category": "electronics",
+      "color": "Silver",
+      "location_zone": "Engineering Block",
+      "description": "Dell XPS 13 inch laptop with Linux stickers on the lid.",
+      "image_style": "silver_laptop_1"
+    },
+    "item_b": {
+      "category": "electronics",
+      "color": "Silver",
+      "location_zone": "Engineering Block",
+      "description": "Silver Dell ultrabook handed in to Lab 302 technician.",
+      "image_style": "silver_laptop_2"
+    }
+  },
+  {
+    "id": 3,
+    "is_match": true,
+    "item_a": {
+      "category": "bottle",
+      "color": "Blue",
+      "location_zone": "Cafeteria",
+      "description": "Hydro Flask 32oz blue bottle with dent on the bottom rim.",
+      "image_style": "blue_bottle_1"
+    },
+    "item_b": {
+      "category": "bottle",
+      "color": "Blue",
+      "location_zone": "Cafeteria",
+      "description": "Blue insulated stainless steel water flask found cafeteria lunch table.",
+      "image_style": "blue_bottle_2"
+    }
+  },
+  {
+    "id": 4,
+    "is_match": true,
+    "item_a": {
+      "category": "keys",
+      "color": "Gold",
+      "location_zone": "Hostel A",
+      "description": "Brass dorm room keys with red lanyard near Hostel A entrance.",
+      "image_style": "gold_keys_1"
+    },
+    "item_b": {
+      "category": "keys",
+      "color": "Gold",
+      "location_zone": "Hostel A",
+      "description": "Set of 3 brass keys with red nylon strap found outside Hostel A.",
+      "image_style": "gold_keys_2"
+    }
+  },
+  {
+    "id": 5,
+    "is_match": true,
+    "item_a": {
+      "category": "electronics",
+      "color": "White",
+      "location_zone": "Sports Complex",
+      "description": "White Apple AirPods Pro charging case left on bench.",
+      "image_style": "white_case_1"
+    },
+    "item_b": {
+      "category": "electronics",
+      "color": "White",
+      "location_zone": "Sports Complex",
+      "description": "White wireless earphone case found at gym equipment area.",
+      "image_style": "white_case_2"
+    }
+  },
+  {
+    "id": 6,
+    "is_match": true,
+    "item_a": {
+      "category": "other",
+      "color": "Black",
+      "location_zone": "Science Block",
+      "description": "Black Casio digital sports watch in Science Block laboratory.",
+      "image_style": "black_watch_1"
+    },
+    "item_b": {
+      "category": "other",
+      "color": "Black",
+      "location_zone": "Science Block",
+      "description": "Digital black rubber sport watch found in chemistry lab sink area.",
+      "image_style": "black_watch_2"
+    }
+  },
+  {
+    "id": 7,
+    "is_match": true,
+    "item_a": {
+      "category": "other",
+      "color": "Brown",
+      "location_zone": "Main Gate",
+      "description": "Brown leather bi-fold wallet with campus ID inside.",
+      "image_style": "brown_wallet_1"
+    },
+    "item_b": {
+      "category": "other",
+      "color": "Brown",
+      "location_zone": "Main Gate",
+      "description": "Men's brown leather wallet found near security turnstiles.",
+      "image_style": "brown_wallet_2"
+    }
+  },
+  {
+    "id": 8,
+    "is_match": true,
+    "item_a": {
+      "category": "clothing",
+      "color": "Green",
+      "location_zone": "Auditorium",
+      "description": "Dark green waterproof hooded rain jacket left in Auditorium.",
+      "image_style": "green_jacket_1"
+    },
+    "item_b": {
+      "category": "clothing",
+      "color": "Green",
+      "location_zone": "Auditorium",
+      "description": "Green rain windbreaker jacket found row 12 of Auditorium.",
+      "image_style": "green_jacket_2"
+    }
+  },
+  {
+    "id": 9,
+    "is_match": true,
+    "item_a": {
+      "category": "book",
+      "color": "Blue",
+      "location_zone": "Library",
+      "description": "Calculus Early Transcendentals hardcover textbook.",
+      "image_style": "blue_book_1"
+    },
+    "item_b": {
+      "category": "book",
+      "color": "Blue",
+      "location_zone": "Library",
+      "description": "Blue hardcover mathematics calculus textbook found on study desk.",
+      "image_style": "blue_book_2"
+    }
+  },
+  {
+    "id": 10,
+    "is_match": true,
+    "item_a": {
+      "category": "clothing",
+      "color": "Grey",
+      "location_zone": "Student Center",
+      "description": "Grey knitted winter scarf forgotten near coffee stall.",
+      "image_style": "grey_scarf_1"
+    },
+    "item_b": {
+      "category": "clothing",
+      "color": "Grey",
+      "location_zone": "Student Center",
+      "description": "Grey wool scarf picked up from student center bench.",
+      "image_style": "grey_scarf_2"
+    }
+  },
+  {
+    "id": 11,
+    "is_match": true,
+    "item_a": {
+      "category": "other",
+      "color": "Black",
+      "location_zone": "Cafeteria",
+      "description": "Black folding umbrella with curved wooden handle.",
+      "image_style": "black_umbrella_1"
+    },
+    "item_b": {
+      "category": "other",
+      "color": "Black",
+      "location_zone": "Cafeteria",
+      "description": "Black rain umbrella with wooden crook handle left by cafeteria exit.",
+      "image_style": "black_umbrella_2"
+    }
+  },
+  {
+    "id": 12,
+    "is_match": true,
+    "item_a": {
+      "category": "electronics",
+      "color": "Red",
+      "location_zone": "Hostel B",
+      "description": "Red wireless on-ear headphones in protective case.",
+      "image_style": "red_headphones_1"
+    },
+    "item_b": {
+      "category": "electronics",
+      "color": "Red",
+      "location_zone": "Hostel B",
+      "description": "Red bluetooth headphones found on couch in Hostel B lounge.",
+      "image_style": "red_headphones_2"
+    }
+  },
+  {
+    "id": 13,
+    "is_match": true,
+    "item_a": {
+      "category": "bottle",
+      "color": "Silver",
+      "location_zone": "Admin Block",
+      "description": "Silver stainless travel mug with black flip lid.",
+      "image_style": "silver_mug_1"
+    },
+    "item_b": {
+      "category": "bottle",
+      "color": "Silver",
+      "location_zone": "Admin Block",
+      "description": "Stainless thermal tumbler with dark top left in admin lobby.",
+      "image_style": "silver_mug_2"
+    }
+  },
+  {
+    "id": 14,
+    "is_match": true,
+    "item_a": {
+      "category": "electronics",
+      "color": "Black",
+      "location_zone": "Engineering Block",
+      "description": "Texas Instruments TI-84 Plus CE graphing calculator.",
+      "image_style": "black_calc_1"
+    },
+    "item_b": {
+      "category": "electronics",
+      "color": "Black",
+      "location_zone": "Engineering Block",
+      "description": "Black TI graphing calculator left in lecture hall 204.",
+      "image_style": "black_calc_2"
+    }
+  },
+  {
+    "id": 15,
+    "is_match": true,
+    "item_a": {
+      "category": "clothing",
+      "color": "Blue",
+      "location_zone": "Sports Complex",
+      "description": "Blue denim trucker jacket with enamel pins on collar.",
+      "image_style": "blue_jacket_1"
+    },
+    "item_b": {
+      "category": "clothing",
+      "color": "Blue",
+      "location_zone": "Sports Complex",
+      "description": "Jean jacket with metal badges found near sports arena bleachers.",
+      "image_style": "blue_jacket_2"
+    }
+  },
+  {
+    "id": 16,
+    "is_match": false,
+    "item_a": {
+      "category": "bag",
+      "color": "Black",
+      "location_zone": "Library",
+      "description": "Black Herschel backpack left near 2nd-floor quiet study section.",
+      "image_style": "black_backpack_1"
+    },
+    "item_b": {
+      "category": "electronics",
+      "color": "Silver",
+      "location_zone": "Engineering Block",
+      "description": "Silver Dell ultrabook handed in to Lab 302 technician.",
+      "image_style": "silver_laptop_2"
+    }
+  },
+  {
+    "id": 17,
+    "is_match": false,
+    "item_a": {
+      "category": "bottle",
+      "color": "Blue",
+      "location_zone": "Cafeteria",
+      "description": "Hydro Flask 32oz blue bottle with dent on bottom rim.",
+      "image_style": "blue_bottle_1"
+    },
+    "item_b": {
+      "category": "electronics",
+      "color": "Red",
+      "location_zone": "Hostel B",
+      "description": "Red bluetooth headphones found on couch in Hostel B lounge.",
+      "image_style": "red_headphones_2"
+    }
+  },
+  {
+    "id": 18,
+    "is_match": false,
+    "item_a": {
+      "category": "keys",
+      "color": "Gold",
+      "location_zone": "Hostel A",
+      "description": "Brass dorm room keys with red lanyard near Hostel A.",
+      "image_style": "gold_keys_1"
+    },
+    "item_b": {
+      "category": "other",
+      "color": "Brown",
+      "location_zone": "Main Gate",
+      "description": "Men's brown leather wallet found near security turnstiles.",
+      "image_style": "brown_wallet_2"
+    }
+  },
+  {
+    "id": 19,
+    "is_match": false,
+    "item_a": {
+      "category": "electronics",
+      "color": "White",
+      "location_zone": "Sports Complex",
+      "description": "White Apple AirPods Pro charging case left on bench.",
+      "image_style": "white_case_1"
+    },
+    "item_b": {
+      "category": "electronics",
+      "color": "Black",
+      "location_zone": "Engineering Block",
+      "description": "Black TI graphing calculator left in lecture hall 204.",
+      "image_style": "black_calc_2"
+    }
+  },
+  {
+    "id": 20,
+    "is_match": false,
+    "item_a": {
+      "category": "clothing",
+      "color": "Green",
+      "location_zone": "Auditorium",
+      "description": "Dark green waterproof hooded rain jacket left in Auditorium.",
+      "image_style": "green_jacket_1"
+    },
+    "item_b": {
+      "category": "bottle",
+      "color": "Blue",
+      "location_zone": "Cafeteria",
+      "description": "Blue insulated stainless steel water flask found cafeteria lunch table.",
+      "image_style": "blue_bottle_2"
+    }
+  },
+  {
+    "id": 21,
+    "is_match": false,
+    "item_a": {
+      "category": "other",
+      "color": "Black",
+      "location_zone": "Science Block",
+      "description": "Black Casio digital sports watch in Science Block laboratory.",
+      "image_style": "black_watch_1"
+    },
+    "item_b": {
+      "category": "id_card",
+      "color": "White",
+      "location_zone": "Admin Block",
+      "description": "Student identity card and lanyard found in administration foyer.",
+      "image_style": "white_case_1"
+    }
+  },
+  {
+    "id": 22,
+    "is_match": false,
+    "item_a": {
+      "category": "clothing",
+      "color": "Grey",
+      "location_zone": "Student Center",
+      "description": "Grey knitted winter scarf forgotten near coffee stall.",
+      "image_style": "grey_scarf_1"
+    },
+    "item_b": {
+      "category": "other",
+      "color": "Black",
+      "location_zone": "Cafeteria",
+      "description": "Black rain umbrella with wooden crook handle left by cafeteria exit.",
+      "image_style": "black_umbrella_2"
+    }
+  },
+  {
+    "id": 23,
+    "is_match": false,
+    "item_a": {
+      "category": "book",
+      "color": "Blue",
+      "location_zone": "Library",
+      "description": "Calculus Early Transcendentals hardcover textbook.",
+      "image_style": "blue_book_1"
+    },
+    "item_b": {
+      "category": "keys",
+      "color": "Gold",
+      "location_zone": "Hostel A",
+      "description": "Set of 3 brass keys with red nylon strap found outside Hostel A.",
+      "image_style": "gold_keys_2"
+    }
+  },
+  {
+    "id": 24,
+    "is_match": false,
+    "item_a": {
+      "category": "bottle",
+      "color": "Silver",
+      "location_zone": "Admin Block",
+      "description": "Silver stainless travel mug with black flip lid.",
+      "image_style": "silver_mug_1"
+    },
+    "item_b": {
+      "category": "clothing",
+      "color": "Green",
+      "location_zone": "Auditorium",
+      "description": "Green rain windbreaker jacket found row 12 of Auditorium.",
+      "image_style": "green_jacket_2"
+    }
+  },
+  {
+    "id": 25,
+    "is_match": false,
+    "item_a": {
+      "category": "bag",
+      "color": "Black",
+      "location_zone": "Library",
+      "description": "Black Herschel backpack left near 2nd-floor quiet study section.",
+      "image_style": "black_backpack_1"
+    },
+    "item_b": {
+      "category": "clothing",
+      "color": "Blue",
+      "location_zone": "Sports Complex",
+      "description": "Jean jacket with metal badges found near sports arena bleachers.",
+      "image_style": "blue_jacket_2"
+    }
+  },
+  {
+    "id": 26,
+    "is_match": false,
+    "item_a": {
+      "category": "electronics",
+      "color": "Silver",
+      "location_zone": "Engineering Block",
+      "description": "Dell XPS 13 inch laptop with Linux stickers on the lid.",
+      "image_style": "silver_laptop_1"
+    },
+    "item_b": {
+      "category": "other",
+      "color": "Brown",
+      "location_zone": "Main Gate",
+      "description": "Men's brown leather wallet found near security turnstiles.",
+      "image_style": "brown_wallet_2"
+    }
+  },
+  {
+    "id": 27,
+    "is_match": false,
+    "item_a": {
+      "category": "electronics",
+      "color": "Red",
+      "location_zone": "Hostel B",
+      "description": "Red wireless on-ear headphones in protective case.",
+      "image_style": "red_headphones_1"
+    },
+    "item_b": {
+      "category": "other",
+      "color": "Black",
+      "location_zone": "Science Block",
+      "description": "Digital black rubber sport watch found in chemistry lab sink area.",
+      "image_style": "black_watch_2"
+    }
+  },
+  {
+    "id": 28,
+    "is_match": false,
+    "item_a": {
+      "category": "electronics",
+      "color": "White",
+      "location_zone": "Sports Complex",
+      "description": "White Apple AirPods Pro charging case left on bench.",
+      "image_style": "white_case_1"
+    },
+    "item_b": {
+      "category": "bottle",
+      "color": "Silver",
+      "location_zone": "Admin Block",
+      "description": "Stainless thermal tumbler with dark top left in admin lobby.",
+      "image_style": "silver_mug_2"
+    }
+  },
+  {
+    "id": 29,
+    "is_match": false,
+    "item_a": {
+      "category": "other",
+      "color": "Black",
+      "location_zone": "Cafeteria",
+      "description": "Black folding umbrella with curved wooden handle.",
+      "image_style": "black_umbrella_1"
+    },
+    "item_b": {
+      "category": "book",
+      "color": "Blue",
+      "location_zone": "Library",
+      "description": "Blue hardcover mathematics calculus textbook found on study desk.",
+      "image_style": "blue_book_2"
+    }
+  },
+  {
+    "id": 30,
+    "is_match": false,
+    "item_a": {
+      "category": "keys",
+      "color": "Gold",
+      "location_zone": "Hostel A",
+      "description": "Brass dorm room keys with red lanyard near Hostel A.",
+      "image_style": "gold_keys_1"
+    },
+    "item_b": {
+      "category": "clothing",
+      "color": "Grey",
+      "location_zone": "Student Center",
+      "description": "Grey wool scarf picked up from student center bench.",
+      "image_style": "grey_scarf_2"
+    }
+  }
+]
